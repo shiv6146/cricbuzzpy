@@ -61,3 +61,7 @@ t20i  49  46  1006  1370   51  5/27  5/27  8.17  26.86  19.73  1   0
 ipl   38  38   824  1177   49  4/52  4/52  8.57  24.02  16.82  0   0
 
 ```
+
+## Limitations
+
+Only T20I and IPL stats for players are supported currently
